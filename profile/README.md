@@ -1,11 +1,12 @@
-Scapa Technologies was an independent software vendor specializing in enterprise test and performance software.
+Scapa Technologies was an independent software vendor specialising in enterprise test and performance software, based in Edinburgh.
 
-Founded in Edinburgh, Scapa developed tools for load testing, application performance monitoring, and IT infrastructure benchmarking: first as a desktop product and later as an API-based platform.
-
-The company has now closed. This organization publishes the source code for inspection, reuse, and community maintenance. The former marketing site (scapatech.com) has been sunset.
+The company has now closed. This organisation publishes the source code for inspection, reuse, and community maintenance. The former marketing site (scapatech.com) has been sunset.
 
 ## Repositories
 
+- **stpp** - Scapa Test and Performance Platform: a Windows-based load-testing and automation platform (C, C++, Java)
+- **hyades** - archived predecessor to STPP (v3.3.2), built around the Eclipse Hyades Project
+- **itsa** - IT Services Automation: archived internal workflow automation tool (never publicly released)
 - **scapa-static** - former corporate website (React + TypeScript, on GitHub Pages)
 
-> Software source code repositories will be added as they are prepared for publication.
+All software repositories are MIT licensed.
